@@ -1,0 +1,31 @@
+
+
+.pages-nav {
+    display: flex;
+    gap: 10px;
+}
+
+.pages-nav-btn {
+    text-decoration: none;
+    background-color: #00A2DC;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.pages-nav-btn-active {
+    background-color: #F00;
+    border: 2px solid #000;
+}
+
+.hide-input {
+    opacity: 0;
+    z-index: -100;
+    width: 0;
+    height: 0;
+}

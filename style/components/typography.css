@@ -1,0 +1,35 @@
+.profile-link {
+    color: #007BFF;
+    text-decoration: underline;
+}
+
+.picked-link {
+    display: block;
+    color: #f00;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 8px 0;
+    border-bottom: 1px dotted #E7E7E7;
+}
+
+.text-danger {
+    color: #ff0000;
+}
+.text-info {
+    font-size: 20px;
+    color: #4e4e50;
+}
+.text-link {
+    display: block;
+    color: #007BFF;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 8px 0;
+    border-bottom: 1px dotted #E7E7E7;
+}
+.text-info-big {
+    font-size: 36px;
+    color: #000;
+    margin-bottom: 30px;
+}
